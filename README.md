@@ -1,4 +1,4 @@
-OSINT-Scraper
+OSINT-Scraper:
 
 A powerful, modular Python tool for collecting Open Source Intelligence (OSINT) from public web sources including GitHub, LinkedIn (public info only), and Whois records.
 
